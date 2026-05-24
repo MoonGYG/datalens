@@ -59,7 +59,7 @@ export default function Home() {
           </div>
           <div className="flex items-center gap-3">
             <span className="px-3 py-1.5 rounded-lg bg-[var(--cyan-primary)]/10 text-[var(--cyan-light)] text-xs font-medium border border-[var(--cyan-primary)]/20">
-              Powered by MiMo
+              Crafted with MiMo v2.5 Pro
             </span>
           </div>
         </div>
@@ -178,7 +178,7 @@ export default function Home() {
       <footer className="relative z-10 border-t border-[var(--border-color)]/50 mt-16">
         <div className="max-w-7xl mx-auto px-6 py-6 flex items-center justify-between">
           <p className="text-xs text-[var(--text-muted)]">
-            © 2026 DataLens. Built with MiMo AI.
+            © 2026 DataLens. Crafted with MiMo v2.5 Pro.
           </p>
           <p className="text-xs text-[var(--text-muted)]">
             v1.0.0
