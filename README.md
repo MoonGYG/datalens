@@ -6,21 +6,6 @@
 
 ---
 
-## 🤖 Powered by MiMo v2.5 Pro
-
-This project is built with **[MiMo v2.5 Pro](https://huggingface.co/XiaomiMiMo)** by **Xiaomi** — a reasoning-optimized language model excelling in math, code, and complex analysis tasks.
-
-| Detail | Info |
-|--------|------|
-| Model | MiMo v2.5 Pro |
-| Provider | Xiaomi AI Lab |
-| Strengths | Reasoning, code generation, data analysis |
-| Integration | OpenAI-compatible API |
-
-> *"Crafted with MiMo v2.5 Pro"* — All AI features in this app (data analysis, pattern detection, chart recommendations) are powered by MiMo v2.5 Pro.
-
----
-
 ## ✨ Features
 
 - **📁 File Upload** — Drag & drop CSV or JSON files for instant parsing
@@ -91,6 +76,21 @@ src/
 ## 🎨 Theme
 
 Dark glassmorphism with **purple** (#7c3aed) and **cyan** (#06b6d4) accent colors. Inter + JetBrains Mono fonts.
+
+---
+
+## 🤖 Powered by MiMo v2.5 Pro
+
+This project is built with **[MiMo v2.5 Pro](https://huggingface.co/XiaomiMiMo)** by **Xiaomi** — a reasoning-optimized language model excelling in math, code, and complex analysis tasks.
+
+| Detail | Info |
+|--------|------|
+| Model | MiMo v2.5 Pro |
+| Provider | Xiaomi AI Lab |
+| Strengths | Reasoning, code generation, data analysis |
+| Integration | OpenAI-compatible API |
+
+> *"Crafted with MiMo v2.5 Pro"* — All AI features in this app (data analysis, pattern detection, chart recommendations) are powered by MiMo v2.5 Pro.
 
 ---
 
