@@ -41,6 +41,7 @@ ${dataPreview || "No data loaded yet."}`,
         max_tokens: 2048,
         stream: false,
       }),
+    });
 
     if (!response.ok) {
       const errorText = await response.text();
