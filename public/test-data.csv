@@ -1,0 +1,49 @@
+name,category,revenue,users,growth_rate,region,month
+DataLens Pro,SaaS,45200,1250,12.5,North America,Jan
+DataLens Pro,SaaS,52300,1480,15.7,North America,Feb
+DataLens Pro,SaaS,61800,1720,18.2,North America,Mar
+DataLens Pro,SaaS,58900,1650,-4.7,North America,Apr
+DataLens Pro,SaaS,72100,2100,22.4,North America,May
+DataLens Pro,SaaS,85400,2580,18.4,North America,Jun
+CloudSync,SaaS,32100,890,8.3,Europe,Jan
+CloudSync,SaaS,35400,1020,10.3,Europe,Feb
+CloudSync,SaaS,41200,1180,16.4,Europe,Mar
+CloudSync,SaaS,38700,1100,-6.1,Europe,Apr
+CloudSync,SaaS,44500,1340,15.0,Europe,May
+CloudSync,SaaS,52800,1590,18.7,Europe,Jun
+NeuralAPI,API,28900,450,22.1,Asia,Jan
+NeuralAPI,API,36700,580,27.0,Asia,Feb
+NeuralAPI,API,42100,710,14.7,Asia,Mar
+NeuralAPI,API,48300,850,14.7,Asia,Apr
+NeuralAPI,API,55600,1020,15.1,Asia,May
+NeuralAPI,API,67200,1280,20.9,Asia,Jun
+ByteScale,Infrastructure,18500,320,5.2,North America,Jan
+ByteScale,Infrastructure,19800,345,7.0,North America,Feb
+ByteScale,Infrastructure,21400,380,8.1,North America,Mar
+ByteScale,Infrastructure,20100,360,-6.1,North America,Apr
+ByteScale,Infrastructure,23700,420,17.9,North America,May
+ByteScale,Infrastructure,28900,510,22.0,North America,Jun
+QuantumML,AI/ML,15200,180,35.2,Europe,Jan
+QuantumML,AI/ML,22400,290,47.4,Europe,Feb
+QuantumML,AI/ML,28900,380,29.0,Europe,Mar
+QuantumML,AI/ML,31200,420,7.9,Europe,Apr
+QuantumML,AI/ML,45600,620,46.2,Europe,May
+QuantumML,AI/ML,58300,810,27.9,Europe,Jun
+PixelForge,Design Tool,12800,2100,9.8,Asia,Jan
+PixelForge,Design Tool,14100,2340,10.2,Asia,Feb
+PixelForge,Design Tool,15900,2610,12.8,Asia,Mar
+PixelForge,Design Tool,14700,2450,-7.5,Asia,Apr
+PixelForge,Design Tool,17200,2890,17.0,Asia,May
+PixelForge,Design Tool,20500,3420,19.2,Asia,Jun
+SecureVault,Security,22100,560,6.4,North America,Jan
+SecureVault,Security,23800,610,7.7,North America,Feb
+SecureVault,Security,25400,650,6.7,North America,Mar
+SecureVault,Security,24100,620,-5.1,North America,Apr
+SecureVault,Security,27800,720,15.4,North America,May
+SecureVault,Security,31200,820,12.2,North America,Jun
+StreamHub,Media,9800,4500,14.2,Europe,Jan
+StreamHub,Media,11200,5200,14.3,Europe,Feb
+StreamHub,Media,13500,6300,20.5,Europe,Mar
+StreamHub,Media,12800,5900,-5.2,Europe,Apr
+StreamHub,Media,15600,7200,21.9,Europe,May
+StreamHub,Media,18900,8800,21.2,Europe,Jun
