@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
-const MIMO_API_URL = "https://opengateway.gitlawb.com/v1/chat/completions";
+const MIMO_API_URL = process.env.MIMO_API_URL || "http://localhost:19911/v1/chat/completions";
+const MIMO_API_KEY = process.env.MIMO_API_KEY || "";
 
 export async function POST(req: NextRequest) {
   try {
@@ -23,19 +24,23 @@ Current data preview:
 ${dataPreview || "No data loaded yet."}`,
     };
 
+    const headers: Record<string, string> = {
+      "Content-Type": "application/json",
+    };
+    if (MIMO_API_KEY) {
+      headers["Authorization"] = `Bearer ${MIMO_API_KEY}`;
+    }
+
     const response = await fetch(MIMO_API_URL, {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
+      headers,
       body: JSON.stringify({
-        model: "xiaomi-mimo",
+        model: "mimo-v2.5-pro",
         messages: [systemMessage, ...messages],
         temperature: 0.7,
         max_tokens: 2048,
         stream: false,
       }),
-    });
 
     if (!response.ok) {
       const errorText = await response.text();
