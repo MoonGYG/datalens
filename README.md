@@ -2,9 +2,22 @@
 
 **AI-Powered Data Analysis** — Upload CSV or JSON data, ask questions in natural language, and get instant AI-powered insights with beautiful visualizations.
 
-> *Crafted with MiMo v2.5 Pro*
-
 ![Landing Page](proof/landing.png)
+
+---
+
+## 🤖 Powered by MiMo v2.5 Pro
+
+This project is built with **[MiMo v2.5 Pro](https://huggingface.co/XiaomiMiMo)** by **Xiaomi** — a reasoning-optimized language model excelling in math, code, and complex analysis tasks.
+
+| Detail | Info |
+|--------|------|
+| Model | MiMo v2.5 Pro |
+| Provider | Xiaomi AI Lab |
+| Strengths | Reasoning, code generation, data analysis |
+| Integration | OpenAI-compatible API |
+
+> *"Crafted with MiMo v2.5 Pro"* — All AI features in this app (data analysis, pattern detection, chart recommendations) are powered by MiMo v2.5 Pro.
 
 ---
 
